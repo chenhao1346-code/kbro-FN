@@ -1,6 +1,2 @@
-streamlit
-pandas
-requests
-openpyxl
 beautifulsoup4==4.12.3
-lxml
+
